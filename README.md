@@ -6,5 +6,5 @@ Albums, artists, browse, follow, library, personalization, player, playlists, pr
 Authorization
 https://developer.spotify.com/web-api/authorization-guide/#authorization-code-flow
 
-PANDORA APIs
+PANDORA APIs--bn
 https://6xq.net/pandora-apidoc/json/
